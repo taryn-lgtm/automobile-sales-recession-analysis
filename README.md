@@ -7,14 +7,6 @@ A portfolio adaptation of my IBM *Data Visualization with Python* final-assignme
 
 The dataset used in the original notebook contains **2,112 records** dated **1980–2023**. It is an IBM-hosted **educational dataset**; the analyses below are descriptive and should not be interpreted as estimates of real-world causal effects.
 
-## Visualisation previews
-
-The images below were saved from the original coursework notebook. Run the improved notebook to generate the current versions of the figures.
-
-![Grouped average automobile sales by vehicle type and economic period](assets/vehicle_sales_comparison.png)
-
-![Non-recession monthly seasonality bubble chart](assets/seasonality_bubble_chart.png)
-
 ## Questions explored
 
 | Focus | Approach |
